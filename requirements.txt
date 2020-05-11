@@ -1,0 +1,4 @@
+ImageScraper==2.0.7
+pyssim==0.4
+selenium==3.141.0
+google==2.0.3
